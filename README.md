@@ -1,6 +1,6 @@
 <!-- Animated Name -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=36&center=true&vCenter=true&width=700&height=80&lines=Hi+I'm+Mohamed+Ramadan;Full-Stack+Web+Developer;Building+Complete+Web+Systems;Software+Engineer+in+Progress" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=36&center=true&vCenter=true&width=700&height=80&lines=Hi+I'm+Mohamed+Ramadan;Full-Stack+Web+Developer;Building+Complete+Web+Systems;Software+Engineer" />
 </h1>
 
 <!-- Banner -->
@@ -15,31 +15,40 @@
 
 ---
 
-# 👨‍💻 About Me  
+# 👨‍💻 About Me
 
 - Full-Stack Web Developer capable of building complete web systems from scratch  
-- Specialized in backend development, database architecture, and system design  
-- Experience in building multi-user platforms, dashboards, and ERP systems  
-- Strong knowledge of PHP, MySQL, JavaScript, and modern frontend tools  
-- Passionate about clean code, scalable architecture, and real-world software projects  
-- Focused on continuous learning and professional software engineering practices  
+- Focused on backend architecture, scalable systems, and clean code practices  
+- Experience in multi-user platforms, ERP systems, dashboards, and APIs  
+- Strong knowledge of PHP, MySQL, JavaScript, Node.js, and modern frontend tools  
+- Passionate about real-world projects and software engineering best practices  
 
 ---
 
-# 🚚 Featured Project  
+# 🚀 Strong Projects
 
-## **Wasel Platform**  
-**A Full-Stack Delivery Platform Similar to Talabat**
+## 🔹 Wasel Platform  
+**Full-stack delivery system similar to Talabat**
+- Multi-user system (Super Admin, Restaurant Admin, Customers)  
+- Authentication (OTP, Login, Register, Password Reset)  
+- Backend built with PHP & MySQL  
+- Role-based dashboards and system architecture  
 
-- Designed and developed backend system using PHP & MySQL  
-- Authentication system (Register, Login, OTP Verification, Password Reset)  
-- Role-based system (Super Admin, Restaurant Admin, Customers)  
-- Database design, API logic, and system architecture  
-- Integrated with frontend team for full platform delivery  
+## 🔹 ERP System for Wood & Fiber Shops  
+- Inventory management  
+- Sales & invoices  
+- Reports & user roles  
+- Custom logic for wood bundles and sheets  
+
+## 🔹 Car Accessories E-Commerce Platform  
+- Online store system  
+- Products & orders management  
+- Customers & backend logic  
+- Full frontend and backend development  
 
 ---
 
-# 🛠 Tech Stack  
+# 🛠 Tech Stack
 
 ## 🖥 Backend  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -72,47 +81,64 @@
 
 ---
 
-# 📚 Learning Resources  
+# 📚 References & Learning
 
 - W3Schools  
 - MDN Web Docs  
 - Stack Overflow  
 - GitHub Open Source  
-- Online Tech Communities & Documentation  
+- Official Documentation  
 
 ---
 
-# 📊 GitHub Stats  
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ramadanx01&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ramadanx01&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramadanx01&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🌐 Connect With Me  
-
-<p align="center">
-  <a href="https://wa.me/201080860210">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" width="45"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mohamad-ramadan-a669312a5/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/mohamed.ramadan.788989">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="45"/>
-  </a>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ramadanx01&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-# 🧠 Code Style  
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://wa.me/201080860210"><img src="https://img.icons8.com/color/48/whatsapp.png"/></a>
+  <a href="https://www.linkedin.com/in/mohamad-ramadan-a669312a5/"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
+  <a href="https://www.facebook.com/mohamed.ramadan.788989"><img src="https://img.icons8.com/color/48/facebook.png"/></a>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=Ramadanx01&theme=tokyonight)
+
+---
+
+# 📈 Contribution Graph
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ramadanx01&theme=tokyo-night)
+
+---
+
+# 🐍 Contribution Snake
+![Snake](https://github.com/Ramadanx01/Ramadanx01/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+# 🌍 Visitors Map
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Ramadanx01.Ramadanx01)
+
+---
+
+# 💬 Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+# 🧠 Code Style
 
 ```php
 class MohamedRamadan
