@@ -24,28 +24,39 @@
 - Passionate about real-world projects and software engineering best practices  
 
 ---
-
 # 🚀 Strong Projects
 
 ## 🔹 Wasel Platform  
-**Full-stack delivery system similar to Talabat**
-- Multi-user system (Super Admin, Restaurant Admin, Customers)  
-- Authentication (OTP, Login, Register, Password Reset)  
+**Full-stack delivery platform with role-based system**
+
+- Multi-user architecture (Super Admin, Restaurant Admin, Customers)  
+- Authentication system (OTP, Login, Register, Password Reset)  
 - Backend built with PHP & MySQL  
-- Role-based dashboards and system architecture  
+- Role-based dashboards and permission system  
+- Scalable database design and system architecture  
+
+---
+
+## 🔹 Online Exam Platform  
+**Web-based examination and assessment system**
+
+- Admin panel for creating exams and questions  
+- Student exam interface with timer and auto submission  
+- Question bank and result evaluation logic  
+- Secure authentication and user roles (Admin, Student)  
+- Backend system using PHP & MySQL  
+- Real-time scoring and reports  
+
+---
 
 ## 🔹 ERP System for Wood & Fiber Shops  
-- Inventory management  
-- Sales & invoices  
-- Reports & user roles  
-- Custom logic for wood bundles and sheets  
+**Custom business management system**
 
-## 🔹 Car Accessories E-Commerce Platform  
-- Online store system  
-- Products & orders management  
-- Customers & backend logic  
-- Full frontend and backend development  
-
+- Inventory management system  
+- Sales and invoices module  
+- User roles and permissions  
+- Business reports and analytics  
+- Custom logic for wood bundles and sheet-based inventory  
 ---
 
 # 🛠 Tech Stack
