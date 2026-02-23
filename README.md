@@ -24,6 +24,7 @@
 - Passionate about real-world projects and software engineering best practices  
 
 ---
+
 # 🚀 Strong Projects
 
 ## 🔹 Wasel Platform  
@@ -57,6 +58,7 @@
 - User roles and permissions  
 - Business reports and analytics  
 - Custom logic for wood bundles and sheet-based inventory  
+
 ---
 
 # 🛠 Tech Stack
@@ -102,14 +104,49 @@
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats & Languages
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ramadanx01&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ramadanx01&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ramadanx01&layout=compact&theme=tokyonight&count_private=true" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ramadanx01&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramadanx01&theme=tokyo-night" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/Ramadanx01/Ramadanx01/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 🌍 Visitors Map
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ramadanx01.Ramadanx01" />
+</p>
+
+---
+
+# 💬 Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
@@ -121,31 +158,6 @@
   <a href="https://www.linkedin.com/in/mohamad-ramadan-a669312a5/"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
   <a href="https://www.facebook.com/mohamed.ramadan.788989"><img src="https://img.icons8.com/color/48/facebook.png"/></a>
 </p>
-
----
-
-# 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Ramadanx01&theme=tokyonight)
-
----
-
-# 📈 Contribution Graph
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ramadanx01&theme=tokyo-night)
-
----
-
-# 🐍 Contribution Snake
-![Snake](https://github.com/Ramadanx01/Ramadanx01/blob/output/github-contribution-grid-snake.svg)
-
----
-
-# 🌍 Visitors Map
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Ramadanx01.Ramadanx01)
-
----
-
-# 💬 Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
